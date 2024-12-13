@@ -1,0 +1,15 @@
+h2{
+background-color:yellow
+}
+ p{
+background-color:pink
+}
+p:hover{
+	background-color:lightblue
+}
+span{
+color:red
+}
+span:hover{
+font-weight:bold
+}
